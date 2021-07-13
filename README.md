@@ -2,10 +2,10 @@
 
 ## Introducción
 
-* [06 -JavaScript IV - Objetos](./06-JavaScript-IV)
-* [07 -JavaScript V - Clases y prototype](./07-JavaScript-V)
-* [08 -JavaScript VI - Callbacks](./08-JavaScript-VI)
-* [09 -JavaScript - Extra ](./09-JavaScript-Extra)
+* [JavaScript IV - Objetos](./06-JavaScript-IV)
+* [JavaScript V - Clases y prototype](./07-JavaScript-V)
+* [JavaScript VI - Callbacks](./08-JavaScript-VI)
+* [JavaScript - Extra ](./09-JavaScript-Extra)
 
 
 
